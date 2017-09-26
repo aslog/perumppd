@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_aslog_assets_aslog_assets,aslog_assets.aslog_assets,model_aslog_assets_aslog_assets,,1,0,0,0
